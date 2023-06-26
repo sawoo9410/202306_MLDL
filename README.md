@@ -11,7 +11,7 @@ day1 003 - https://drive.google.com/file/d/1BYNogJCivhGJSfBfnUdQWPi0b6w48wNO/vie
 day2 003 sementic segmentation - https://drive.google.com/file/d/1y2q1_z9-iNuIxpowYvGXE7AB0gmEO3wg/view?usp=share_link
 
 #### dataset
-day2 002 object detection(yolo-v5) - 
+day2 002 object detection(yolo-v5) - https://drive.google.com/file/d/1E_Xfht_KYyNcEP025Yg7LU9nxaTXdI8O/view?usp=sharing
 
 ## Day4
 #### dataset
